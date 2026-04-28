@@ -9,7 +9,7 @@
   ╚═══╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
 ```
 
-**Интерактивный справочник по программированию для начинающих**
+**Interactive Programming Guide for Beginners**
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -29,23 +29,12 @@
 
 ---
 
-## 📸 Превью
+## 📸 Preview
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  ⌨️ VibeCode                                       🌙   │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│              ⌨️  VibeCode                              │
-│   Интерактивный справочник для начинающих               │
-│                                                         │
-│   ┌─────────────┐  ┌─────────────┐  ┌─────────────┐   │
-│   │  🗂️         │  │  🐧         │  │  🚀         │   │
-│   │  Языки      │  │  Linux      │  │  Фишки      │   │
-│   │  прогр-ния  │  │  Vim/VSCode │  │  разработ.  │   │
-│   └─────────────┘  └─────────────┘  └─────────────┘   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+<p align="center">
+  <img src="https://via.placeholder.com/1100x500.png?text=VibeCode+UI+Preview" alt="VibeCode Preview" />
+</p>
 ```
 
 ---
@@ -80,39 +69,6 @@ vibecode/
 └── 📖 README.md
 ```
 
----
-
-## 🚀 Деплой на GitHub Pages
-
-**Шаг 1 — Создай репозиторий**
-
-```bash
-git init
-git add .
-git commit -m "feat: initial commit"
-git branch -M main
-git remote add origin https://github.com/<username>/<repo>.git
-git push -u origin main
-```
-
-**Шаг 2 — Включи GitHub Pages**
-
-```
-Репозиторий → Settings → Pages
-  └── Source: Deploy from a branch
-        └── Branch: main  /  (root)
-              └── Save ✅
-```
-
-**Шаг 3 — Открой сайт**
-
-```
-https://<username>.github.io/<repo>/
-```
-
-> ⏱️ Первый деплой занимает ~1–2 минуты
-
----
 
 ## 🛠️ Стек
 
