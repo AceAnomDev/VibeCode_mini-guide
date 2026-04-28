@@ -1,128 +1,158 @@
-🚀 VibeCode
 <div align="center">
+
+```
 ██╗   ██╗██╗██████╗ ███████╗ ██████╗ ██████╗ ██████╗ ███████╗
 ██║   ██║██║██╔══██╗██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔════╝
-██║   ██║██║██████╔╝█████╗  ██║     ██║   ██║██║  ██║█████╗
-╚██╗ ██╔╝██║██╔══██╗██╔══╝  ██║     ██║   ██║██║  ██║██╔══╝
+██║   ██║██║██████╔╝█████╗  ██║     ██║   ██║██║  ██║█████╗  
+╚██╗ ██╔╝██║██╔══██╗██╔══╝  ██║     ██║   ██║██║  ██║██╔══╝  
  ╚████╔╝ ██║██████╔╝███████╗╚██████╗╚██████╔╝██████╔╝███████╗
   ╚═══╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-✨ Interactive Programming Handbook for Beginners
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7C6BFF&center=true&vCenter=true&width=600&lines=Learn+Programming+Step+by+Step;12+Languages+Included;Linux+%2B+Git+%2B+Developer+Tools;Built+with+Pure+HTML+CSS+JS" /> <br>
+```
 
+**Интерактивный справочник по программированию для начинающих**
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+
+[![Languages](https://img.shields.io/badge/Languages-12-7c6bff?style=flat-square)](/)
+[![License](https://img.shields.io/badge/License-MIT-56cfb2?style=flat-square)](/)
+[![Status](https://img.shields.io/badge/Status-Live-28c840?style=flat-square)](/)
 
 </div>
-📸 Preview
+
+---
+
+## 📸 Превью
+
+```
 ┌─────────────────────────────────────────────────────────┐
 │  ⌨️ VibeCode                                       🌙   │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
-│                ⌨️  VibeCode                             │
-│        Interactive Guide for Beginners                  │
+│              ⌨️  VibeCode                              │
+│   Интерактивный справочник для начинающих               │
 │                                                         │
 │   ┌─────────────┐  ┌─────────────┐  ┌─────────────┐   │
 │   │  🗂️         │  │  🐧         │  │  🚀         │   │
-│   │ Languages   │  │ Linux       │  │ Dev Tricks  │   │
+│   │  Языки      │  │  Linux      │  │  Фишки      │   │
+│   │  прогр-ния  │  │  Vim/VSCode │  │  разработ.  │   │
 │   └─────────────┘  └─────────────┘  └─────────────┘   │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
-✨ Features
-Section	Description	Topics
-🗂️ Languages	Python, JS, Java, Go, Rust, C#, PHP, TS, Swift, Kotlin, Ruby, C/C++	12 × 10
-🐧 Linux	Navigation, Files, Processes, Networking, Vim, VS Code	8
-🚀 Developer Tricks	Git, Regex, SSH, Patterns, Big-O, Debugging, Productivity	8
-🎨 UI Features
-✨ Syntax highlighting (highlight.js)
-🌙 Dark / Light theme switch
-📋 One-click code copy
-🔎 Language search
-📱 Fully responsive layout
-📚 Book modals
-⚡ Smooth animations
-🧭 Content navigation
-📁 Project Structure
+```
+
+---
+
+## ✨ Возможности
+
+| Раздел | Описание | Кол-во тем |
+|--------|----------|:-----------:|
+| 🗂️ **Языки** | Python, JS, Java, Go, Rust, C#, PHP, TS, Swift, Kotlin, Ruby, C/C++ | 12 × 10 тем |
+| 🐧 **Linux** | Навигация, файлы, процессы, сеть, Vim, VS Code | 8 тем |
+| 🚀 **Фишки** | Git, Regex, SSH, паттерны, Big O, дебаг, продуктивность | 8 тем |
+
+### Фичи интерфейса
+
+```
+✅  Подсветка синтаксиса (highlight.js)   ✅  Тёмная / светлая тема
+✅  Копирование кода в один клик          ✅  Навигация по содержанию
+✅  Анимации при появлении секций         ✅  Адаптивная вёрстка (mobile)
+✅  Модальные окна книг                   ✅  Поиск по языкам
+```
+
+---
+
+## 📁 Структура проекта
+
+```
 vibecode/
 │
-├── index.html     # App layout
-├── style.css      # Themes, animations, responsive UI
-├── app.js         # Logic + content + books database
-└── README.md
-🚀 Deploy on GitHub Pages
-1️⃣ Create repository
+├── 📄 index.html      # Разметка и структура приложения
+├── 🎨 style.css       # Все стили, темы, анимации, адаптив
+├── ⚙️  app.js          # Логика, контент (12 языков), книги
+└── 📖 README.md
+```
+
+---
+
+## 🚀 Деплой на GitHub Pages
+
+**Шаг 1 — Создай репозиторий**
+
+```bash
 git init
 git add .
 git commit -m "feat: initial commit"
 git branch -M main
 git remote add origin https://github.com/<username>/<repo>.git
 git push -u origin main
-2️⃣ Enable GitHub Pages
-Repository → Settings → Pages
+```
 
-Source:
-Deploy from a branch
+**Шаг 2 — Включи GitHub Pages**
 
-Branch:
-main / (root)
+```
+Репозиторий → Settings → Pages
+  └── Source: Deploy from a branch
+        └── Branch: main  /  (root)
+              └── Save ✅
+```
 
-Save ✅
-3️⃣ Open your site
+**Шаг 3 — Открой сайт**
+
+```
 https://<username>.github.io/<repo>/
+```
 
-⏱ First deploy takes ~1–2 minutes.
+> ⏱️ Первый деплой занимает ~1–2 минуты
 
-🛠️ Tech Stack
-Layer	Technology
-Markup	Semantic HTML5
-Styles	CSS3 (variables, grid, flex, animations)
-Logic	Vanilla JavaScript ES6+
-Highlighting	highlight.js
-Icons	Devicons CDN
-Fonts	JetBrains Mono + Manrope
-Hosting	GitHub Pages
-📚 Books Library
+---
 
-Each language includes 5 recommended books.
+## 🛠️ Стек
 
-60+ programming books included:
+```
+┌──────────────┬───────────────────────────────────────────┐
+│ Слой         │ Технология                                │
+├──────────────┼───────────────────────────────────────────┤
+│ Разметка     │ HTML5 (семантический)                     │
+│ Стили        │ CSS3 (переменные, анимации, grid, flex)   │
+│ Логика       │ Vanilla JavaScript ES6+                   │
+│ Подсветка    │ highlight.js 11.9                         │
+│ Иконки       │ Devicons CDN                              │
+│ Шрифты       │ JetBrains Mono + Manrope (Google Fonts)  │
+│ Хостинг      │ GitHub Pages (бесплатно)                  │
+└──────────────┴───────────────────────────────────────────┘
+```
 
-Python       → Fluent Python, Automate the Boring Stuff
-JavaScript   → Eloquent JS, You Don't Know JS
-Rust         → The Book, Rust in Action
-Go           → The Go Programming Language
-...and more across all 12 languages
-🎬 Built-In Animations
+---
 
-✔ Section reveal animations
-✔ Hover cards
-✔ Smooth scrolling
-✔ Modal transitions
-✔ Theme transition effects
+## 📚 Книги
 
-Example CSS animation used:
+Каждый язык содержит подборку из **5 книг** с описанием — всего **60+ книг** в базе:
 
-.fade-in {
-  opacity: 0;
-  transform: translateY(20px);
-  animation: fade 0.6s ease forwards;
-}
+```
+Python     →  Fluent Python, Automate the Boring Stuff, Python Crash Course...
+JavaScript →  Eloquent JS, You Don't Know JS, JS: The Good Parts...
+Rust       →  The Book (бесплатно!), Rust in Action, Programming Rust...
+Go         →  The Go Programming Language, 100 Go Mistakes...
+...и так далее для всех 12 языков
+```
 
-@keyframes fade {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-⭐ Why VibeCode?
-Beginner-friendly
-No frameworks
-Fast loading
-Offline-ready
-Clean developer UX
-Perfect learning hub
-📄 License
-MIT License — free to use, modify and distribute.
+---
+
+## 📄 Лицензия
+
+```
+MIT License — используй, изменяй, распространяй свободно.
+```
+
+---
+
 <div align="center">
-Made with ❤️ + ☕
 
-⭐ If you like the project — give it a star!
+**Сделано с ❤️ и ☕**
+
+*Если проект понравился — поставь ⭐*
 
 </div>
