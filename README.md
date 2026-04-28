@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aceanomdev.github.io/VibeCode_mini-guide/">
+  <a href="https://AceAnomDev.github.io/VibeCode_mini-guide/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🐧+Interactive+Programming+Guide;💡+From+Zero+to+Dev+Hero;🚀+Code.+Learn.+Repeat." alt="Typing SVG" />
   </a>
 </p>
@@ -86,7 +86,7 @@ Whether you're writing your first `Hello, World!` or trying to remember that one
 
 ```bash
 # Clone the repository
-git clone https://github.com/aceanomdev/VibeCode_mini-guide.git
+git clone https://github.com/AceAnomDev/VibeCode_mini-guide.git
 
 # Navigate into the project
 cd VibeCode_mini-guide
@@ -97,7 +97,7 @@ open index.html
 ```
 
 <p align="center">
-  <a href="https://aceanomdev.github.io/VibeCode_mini-guide/">
+  <a href="https://AceAnomDev.github.io/VibeCode_mini-guide/">
     <img src="https://img.shields.io/badge/🌐_Visit_Live_Site-7C3AED?style=for-the-badge&logoColor=white" height="45"/>
   </a>
 </p>
@@ -165,6 +165,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 </p>
 
 <p align="center">
-  Made with 🖤 by <a href="https://github.com/aceanomdev"><b>aceanomdev</b></a><br/>
+  Made with 🖤 by <a href="https://github.com/AceAnomDev"><b>AceAnomDev</b></a><br/>
   <sub>⭐ Star this repo if it helped you on your dev journey!</sub>
 </p>
