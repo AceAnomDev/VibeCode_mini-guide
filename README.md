@@ -146,10 +146,10 @@ Contributions are what make the open-source community amazing. Any contributions
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/aceanomdev/VibeCode_mini-guide?style=for-the-badge&color=FFD700&logo=star" />
-  <img src="https://img.shields.io/github/forks/aceanomdev/VibeCode_mini-guide?style=for-the-badge&color=4EC9B0" />
-  <img src="https://img.shields.io/github/issues/aceanomdev/VibeCode_mini-guide?style=for-the-badge&color=FF6B6B" />
-  <img src="https://img.shields.io/github/last-commit/aceanomdev/VibeCode_mini-guide?style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/stars/AceAnomDev/VibeCode_mini-guide?style=for-the-badge&color=FFD700&logo=star" />
+  <img src="https://img.shields.io/github/forks/AceAnomDev/VibeCode_mini-guide?style=for-the-badge&color=4EC9B0" />
+  <img src="https://img.shields.io/github/issues/AceAnomDev/VibeCode_mini-guide?style=for-the-badge&color=FF6B6B" />
+  <img src="https://img.shields.io/github/last-commit/AceAnomDev/VibeCode_mini-guide?style=for-the-badge&color=7C3AED" />
 </p>
 
 ---
