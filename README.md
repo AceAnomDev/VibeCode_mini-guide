@@ -112,9 +112,9 @@ VibeCode_mini-guide/
 ├── 🎨 style.css           # Dark theme styling
 ├── ⚡ script.js           # Interactivity & navigation
 ├── 📁 sections/
-│   ├── languages.html     # Programming languages reference
-│   ├── linux-vim-vscode.html  # Dev tools guide
-│   └── dev-tips.html      # Pro developer tips
+│   ├── languages.js     # Programming languages reference
+│   ├── linux-vim-vscode.js  # Dev tools guide
+│   └── dev-tips.js      # Pro developer tips
 └── 📁 assets/             # Icons & images
 ```
 
