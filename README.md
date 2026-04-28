@@ -133,7 +133,7 @@ VibeCode_mini-guide/
 
 ## 🤝 Contributing
 
-Contributions are what make the open-source community amazing. Any contributions you make are **greatly appreciated**!
+Contributions are what make the open-source community amazing. I would greatly appreciate any contribution **you may have**!
 
 1. Fork the project
 2. Create your feature branch: `git checkout -b feature/AmazingFeature`
