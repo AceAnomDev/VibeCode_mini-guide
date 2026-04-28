@@ -33,7 +33,7 @@
 
 ```
 <p align="center">
-  <img src="https://via.placeholder.com/1100x500.png?text=VibeCode+UI+Preview" alt="VibeCode Preview" />
+  <img src="public/profile.png" alt="VibeCode Preview" />
 </p>
 ```
 
