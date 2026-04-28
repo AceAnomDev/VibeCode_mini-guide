@@ -16,7 +16,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <p align="center">
-  <a href="https://<username>.github.io/<repo>/" target="_blank">
+  <a href="https://aceanomdev.github.io/VibeCode_mini-guide/" target="_blank">
     <img src="https://img.shields.io/badge/VIEW%20PROJECT-LIVE%20DEMO-28c840?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
