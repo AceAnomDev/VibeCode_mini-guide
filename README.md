@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://AceAnomDev.github.io/VibeCode_mini-guide/">
+  <a href="https://AceAnomDev.github.io/VibeCode/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🐧+Interactive+Programming+Guide;💡+From+Zero+to+Dev+Hero;🚀+Code.+Learn.+Repeat." alt="Typing SVG" />
   </a>
 </p>
@@ -86,10 +86,10 @@ Whether you're writing your first `Hello, World!` or trying to remember that one
 
 ```bash
 # Clone the repository
-git clone https://github.com/AceAnomDev/VibeCode_mini-guide.git
+git clone https://github.com/AceAnomDev/VibeCode.git
 
 # Navigate into the project
-cd VibeCode_mini-guide
+cd VibeCode
 
 # Open in your browser
 open index.html
@@ -97,7 +97,7 @@ open index.html
 ```
 
 <p align="center">
-  <a href="https://AceAnomDev.github.io/VibeCode_mini-guide/">
+  <a href="https://AceAnomDev.github.io/VibeCode/">
     <img src="https://img.shields.io/badge/🌐_Visit_Live_Site-7C3AED?style=for-the-badge&logoColor=white" height="45"/>
   </a>
 </p>
@@ -146,10 +146,10 @@ Contributions are what make the open-source community amazing. Any contributions
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/AceAnomDev/VibeCode_mini-guide?style=for-the-badge&color=FFD700&logo=star" />
-  <img src="https://img.shields.io/github/forks/AceAnomDev/VibeCode_mini-guide?style=for-the-badge&color=4EC9B0" />
-  <img src="https://img.shields.io/github/issues/AceAnomDev/VibeCode_mini-guide?style=for-the-badge&color=FF6B6B" />
-  <img src="https://img.shields.io/github/last-commit/AceAnomDev/VibeCode_mini-guide?style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/stars/AceAnomDev/VibeCode?style=for-the-badge&color=FFD700&logo=star" />
+  <img src="https://img.shields.io/github/forks/AceAnomDev/VibeCode?style=for-the-badge&color=4EC9B0" />
+  <img src="https://img.shields.io/github/issues/AceAnomDev/VibeCode?style=for-the-badge&color=FF6B6B" />
+  <img src="https://img.shields.io/github/last-commit/AceAnomDev/VibeCode?style=for-the-badge&color=7C3AED" />
 </p>
 
 ---
