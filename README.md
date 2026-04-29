@@ -18,7 +18,7 @@
 <br/>
 
 <p align="center">
-  <img src="public/profile.png" width="180" alt="VibeCode" />
+  <img src="public/profile.png" width="380" alt="VibeCode" />
 </p>
 
 ---
