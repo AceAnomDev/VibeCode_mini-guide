@@ -17,6 +17,10 @@
 
 <br/>
 
+<p align="center">
+  <img src="public/profile.png" width="180" alt="VibeCode" />
+</p>
+
 ---
 
 ## 🌟 What is VibeCode?
